@@ -115,7 +115,7 @@ traitlets==4.3.2
 travis==0.0.3
 typed-ast==1.4.0
 Unidecode==1.1.0
-urllib3==1.25.8
+urllib3==1.26.5
 vcrpy==2.0.1
 wcwidth==0.1.7
 webencodings==0.5.1
